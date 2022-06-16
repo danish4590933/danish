@@ -1,0 +1,8 @@
+#card{
+    display:flex;
+    flex-direction: row;
+    width:1100px;
+    padding: 20px;
+    margin-left: 100px;
+    
+}
